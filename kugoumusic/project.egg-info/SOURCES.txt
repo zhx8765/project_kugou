@@ -1,0 +1,14 @@
+setup.py
+kugoumusic/__init__.py
+kugoumusic/ctrl_kugou.py
+kugoumusic/items.py
+kugoumusic/middlewares.py
+kugoumusic/pipelines.py
+kugoumusic/settings.py
+kugoumusic/spiders/__init__.py
+kugoumusic/spiders/kugou.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
